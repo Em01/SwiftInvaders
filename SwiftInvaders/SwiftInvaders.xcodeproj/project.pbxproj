@@ -28,6 +28,7 @@
 		85A5EBC31AE95CFC00CFE248 /* star.png in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EBB61AE95CFC00CFE248 /* star.png */; };
 		85A5EBC41AE95CFC00CFE248 /* start_btn.png in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EBB71AE95CFC00CFE248 /* start_btn.png */; };
 		85A5EBC51AE95CFC00CFE248 /* ufo.png in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EBB81AE95CFC00CFE248 /* ufo.png */; };
+		85A5EBC71AE9905500CFE248 /* Invader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85A5EBC61AE9905500CFE248 /* Invader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,7 @@
 		85A5EBB61AE95CFC00CFE248 /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star.png; sourceTree = "<group>"; };
 		85A5EBB71AE95CFC00CFE248 /* start_btn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start_btn.png; sourceTree = "<group>"; };
 		85A5EBB81AE95CFC00CFE248 /* ufo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ufo.png; sourceTree = "<group>"; };
+		85A5EBC61AE9905500CFE248 /* Invader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Invader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				85A5EB891AE9557700CFE248 /* GameScene.swift */,
 				85A5EB8B1AE9557700CFE248 /* GameViewController.swift */,
 				85A5EBA91AE958CA00CFE248 /* StartGameScene.swift */,
+				85A5EBC61AE9905500CFE248 /* Invader.swift */,
 				85A5EB8D1AE9557700CFE248 /* Main.storyboard */,
 				85A5EB901AE9557700CFE248 /* Images.xcassets */,
 				85A5EB921AE9557700CFE248 /* LaunchScreen.xib */,
@@ -280,6 +283,7 @@
 			files = (
 				85A5EB8A1AE9557700CFE248 /* GameScene.swift in Sources */,
 				85A5EBAA1AE958CA00CFE248 /* StartGameScene.swift in Sources */,
+				85A5EBC71AE9905500CFE248 /* Invader.swift in Sources */,
 				85A5EB8C1AE9557700CFE248 /* GameViewController.swift in Sources */,
 				85A5EB861AE9557700CFE248 /* AppDelegate.swift in Sources */,
 			);
