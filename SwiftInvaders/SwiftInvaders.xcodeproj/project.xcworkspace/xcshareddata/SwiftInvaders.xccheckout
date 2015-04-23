@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>594B244E-77DF-4343-ABA9-DD5879FFD604</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftInvaders</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AFFADB03914D2445DFF16AD06CC3CE5E684A6547</key>
+		<string>github.com:Em01/SwiftInvaders.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftInvaders/SwiftInvaders.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AFFADB03914D2445DFF16AD06CC3CE5E684A6547</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:Em01/SwiftInvaders.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AFFADB03914D2445DFF16AD06CC3CE5E684A6547</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AFFADB03914D2445DFF16AD06CC3CE5E684A6547</string>
+			<key>IDESourceControlWCCName</key>
+			<string>swift_invaders</string>
+		</dict>
+	</array>
+</dict>
+</plist>

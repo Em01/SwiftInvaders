@@ -14,6 +14,20 @@
 		85A5EB911AE9557700CFE248 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EB901AE9557700CFE248 /* Images.xcassets */; };
 		85A5EB941AE9557700CFE248 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EB921AE9557700CFE248 /* LaunchScreen.xib */; };
 		85A5EBA01AE9557700CFE248 /* SwiftInvadersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85A5EB9F1AE9557700CFE248 /* SwiftInvadersTests.swift */; };
+		85A5EBAA1AE958CA00CFE248 /* StartGameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85A5EBA91AE958CA00CFE248 /* StartGameScene.swift */; };
+		85A5EBB91AE95CFC00CFE248 /* CONQUEST.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EBAC1AE95CFC00CFE248 /* CONQUEST.ttf */; };
+		85A5EBBA1AE95CFC00CFE248 /* invader1.png in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EBAD1AE95CFC00CFE248 /* invader1.png */; };
+		85A5EBBB1AE95CFC00CFE248 /* invader2.png in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EBAE1AE95CFC00CFE248 /* invader2.png */; };
+		85A5EBBC1AE95CFC00CFE248 /* invader3.png in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EBAF1AE95CFC00CFE248 /* invader3.png */; };
+		85A5EBBD1AE95CFC00CFE248 /* laser.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EBB01AE95CFC00CFE248 /* laser.mp3 */; };
+		85A5EBBE1AE95CFC00CFE248 /* laser.png in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EBB11AE95CFC00CFE248 /* laser.png */; };
+		85A5EBBF1AE95CFC00CFE248 /* newgamebtn.png in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EBB21AE95CFC00CFE248 /* newgamebtn.png */; };
+		85A5EBC01AE95CFC00CFE248 /* nextlevelbtn.png in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EBB31AE95CFC00CFE248 /* nextlevelbtn.png */; };
+		85A5EBC11AE95CFC00CFE248 /* player1.png in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EBB41AE95CFC00CFE248 /* player1.png */; };
+		85A5EBC21AE95CFC00CFE248 /* player2.png in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EBB51AE95CFC00CFE248 /* player2.png */; };
+		85A5EBC31AE95CFC00CFE248 /* star.png in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EBB61AE95CFC00CFE248 /* star.png */; };
+		85A5EBC41AE95CFC00CFE248 /* start_btn.png in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EBB71AE95CFC00CFE248 /* start_btn.png */; };
+		85A5EBC51AE95CFC00CFE248 /* ufo.png in Resources */ = {isa = PBXBuildFile; fileRef = 85A5EBB81AE95CFC00CFE248 /* ufo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +52,20 @@
 		85A5EB991AE9557700CFE248 /* SwiftInvadersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftInvadersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		85A5EB9E1AE9557700CFE248 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		85A5EB9F1AE9557700CFE248 /* SwiftInvadersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftInvadersTests.swift; sourceTree = "<group>"; };
+		85A5EBA91AE958CA00CFE248 /* StartGameScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StartGameScene.swift; sourceTree = "<group>"; };
+		85A5EBAC1AE95CFC00CFE248 /* CONQUEST.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = CONQUEST.ttf; sourceTree = "<group>"; };
+		85A5EBAD1AE95CFC00CFE248 /* invader1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = invader1.png; sourceTree = "<group>"; };
+		85A5EBAE1AE95CFC00CFE248 /* invader2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = invader2.png; sourceTree = "<group>"; };
+		85A5EBAF1AE95CFC00CFE248 /* invader3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = invader3.png; sourceTree = "<group>"; };
+		85A5EBB01AE95CFC00CFE248 /* laser.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = laser.mp3; sourceTree = "<group>"; };
+		85A5EBB11AE95CFC00CFE248 /* laser.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = laser.png; sourceTree = "<group>"; };
+		85A5EBB21AE95CFC00CFE248 /* newgamebtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = newgamebtn.png; sourceTree = "<group>"; };
+		85A5EBB31AE95CFC00CFE248 /* nextlevelbtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nextlevelbtn.png; sourceTree = "<group>"; };
+		85A5EBB41AE95CFC00CFE248 /* player1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player1.png; sourceTree = "<group>"; };
+		85A5EBB51AE95CFC00CFE248 /* player2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player2.png; sourceTree = "<group>"; };
+		85A5EBB61AE95CFC00CFE248 /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star.png; sourceTree = "<group>"; };
+		85A5EBB71AE95CFC00CFE248 /* start_btn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start_btn.png; sourceTree = "<group>"; };
+		85A5EBB81AE95CFC00CFE248 /* ufo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ufo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,9 +107,11 @@
 		85A5EB821AE9557700CFE248 /* SwiftInvaders */ = {
 			isa = PBXGroup;
 			children = (
+				85A5EBAB1AE95CFC00CFE248 /* images */,
 				85A5EB851AE9557700CFE248 /* AppDelegate.swift */,
 				85A5EB891AE9557700CFE248 /* GameScene.swift */,
 				85A5EB8B1AE9557700CFE248 /* GameViewController.swift */,
+				85A5EBA91AE958CA00CFE248 /* StartGameScene.swift */,
 				85A5EB8D1AE9557700CFE248 /* Main.storyboard */,
 				85A5EB901AE9557700CFE248 /* Images.xcassets */,
 				85A5EB921AE9557700CFE248 /* LaunchScreen.xib */,
@@ -113,6 +143,26 @@
 				85A5EB9E1AE9557700CFE248 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		85A5EBAB1AE95CFC00CFE248 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				85A5EBAC1AE95CFC00CFE248 /* CONQUEST.ttf */,
+				85A5EBAD1AE95CFC00CFE248 /* invader1.png */,
+				85A5EBAE1AE95CFC00CFE248 /* invader2.png */,
+				85A5EBAF1AE95CFC00CFE248 /* invader3.png */,
+				85A5EBB01AE95CFC00CFE248 /* laser.mp3 */,
+				85A5EBB11AE95CFC00CFE248 /* laser.png */,
+				85A5EBB21AE95CFC00CFE248 /* newgamebtn.png */,
+				85A5EBB31AE95CFC00CFE248 /* nextlevelbtn.png */,
+				85A5EBB41AE95CFC00CFE248 /* player1.png */,
+				85A5EBB51AE95CFC00CFE248 /* player2.png */,
+				85A5EBB61AE95CFC00CFE248 /* star.png */,
+				85A5EBB71AE95CFC00CFE248 /* start_btn.png */,
+				85A5EBB81AE95CFC00CFE248 /* ufo.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -195,8 +245,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				85A5EBC11AE95CFC00CFE248 /* player1.png in Resources */,
 				85A5EB941AE9557700CFE248 /* LaunchScreen.xib in Resources */,
 				85A5EB911AE9557700CFE248 /* Images.xcassets in Resources */,
+				85A5EBBE1AE95CFC00CFE248 /* laser.png in Resources */,
+				85A5EBC51AE95CFC00CFE248 /* ufo.png in Resources */,
+				85A5EBBF1AE95CFC00CFE248 /* newgamebtn.png in Resources */,
+				85A5EBBC1AE95CFC00CFE248 /* invader3.png in Resources */,
+				85A5EBB91AE95CFC00CFE248 /* CONQUEST.ttf in Resources */,
+				85A5EBBA1AE95CFC00CFE248 /* invader1.png in Resources */,
+				85A5EBC41AE95CFC00CFE248 /* start_btn.png in Resources */,
+				85A5EBC01AE95CFC00CFE248 /* nextlevelbtn.png in Resources */,
+				85A5EBBB1AE95CFC00CFE248 /* invader2.png in Resources */,
+				85A5EBC21AE95CFC00CFE248 /* player2.png in Resources */,
+				85A5EBC31AE95CFC00CFE248 /* star.png in Resources */,
+				85A5EBBD1AE95CFC00CFE248 /* laser.mp3 in Resources */,
 				85A5EB8F1AE9557700CFE248 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -216,6 +279,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				85A5EB8A1AE9557700CFE248 /* GameScene.swift in Sources */,
+				85A5EBAA1AE958CA00CFE248 /* StartGameScene.swift in Sources */,
 				85A5EB8C1AE9557700CFE248 /* GameViewController.swift in Sources */,
 				85A5EB861AE9557700CFE248 /* AppDelegate.swift in Sources */,
 			);
